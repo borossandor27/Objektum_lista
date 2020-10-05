@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objektum_lista", "Objektum_lista\Objektum_lista.csproj", "{D9A67A41-7BD0-4D84-AA0A-83587165F648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A67A41-7BD0-4D84-AA0A-83587165F648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A67A41-7BD0-4D84-AA0A-83587165F648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A67A41-7BD0-4D84-AA0A-83587165F648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A67A41-7BD0-4D84-AA0A-83587165F648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5AE7D85-93A0-4F11-9440-3A7B437E1D58}
+	EndGlobalSection
+EndGlobal
